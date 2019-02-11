@@ -1,0 +1,8 @@
+vggish*
+models/
+__pycache__
+.ipynb*
+*.wav
+*.mp3
+*.h5
+mel_features.py
